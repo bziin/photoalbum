@@ -9,7 +9,7 @@ import java.util.Date;
 @Table(name= "photo", schema = "photo_album", uniqueConstraints = {@UniqueConstraint(columnNames = "photo_id")})
 public class Photo {
     @Id
-    @GeneratedValue
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name= "photo_id", unique = true, nullable = false)
     private Long photoId;
 
