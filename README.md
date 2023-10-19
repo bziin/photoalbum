@@ -33,3 +33,7 @@ https://bzzzzi.notion.site/API-1-06af6ee0f33f478180147a2a766ce815?pvs=4
   width=90%>
 </img>
 
+- API 테스팅
+
+  <img src = "https://file.notion.so/f/f/13a56783-7604-415c-8d4c-d849d6bc8db1/064a6dc4-d67c-45f4-8579-3b09343d6c86/Screenshot_2023-10-13_at_13.17.47.jpg?id=e7072b00-e334-4176-85eb-4d5836cb1170&table=block&spaceId=13a56783-7604-415c-8d4c-d849d6bc8db1&expirationTimestamp=1697781600000&signature=AdKhveH_Dw9qWliXpDN_w3OzdfJpoIkNsxu53gY-wik&downloadName=Screenshot+2023-10-13+at+13.17.47.JPG.jpg" width= 90%> </img>
+  <img src = "https://file.notion.so/f/f/13a56783-7604-415c-8d4c-d849d6bc8db1/d8fe7166-e803-498d-9957-1de08afacb13/Screenshot_2023-10-13_at_13.18.19.jpg?id=01087e32-004a-461b-bed4-97e61471c057&table=block&spaceId=13a56783-7604-415c-8d4c-d849d6bc8db1&expirationTimestamp=1697781600000&signature=X9QLILIkeewfbHS-csaoT7Fh7kKjjqBoTETBsEx4obk&downloadName=Screenshot+2023-10-13+at+13.18.19.JPG.jpg" width=90%></img>
