@@ -20,4 +20,16 @@ RESTful API 디자인 및 구현에 대한 이해와 경험을 하게 되었고 
 - API테스팅: Postman
 - 문서관리: Notion
 
+### 기능소개
+
+- ERD
+
+  <img src = "https://file.notion.so/f/f/13a56783-7604-415c-8d4c-d849d6bc8db1/a3004862-526f-4e32-9e2f-b37c2af1dbf7/Screenshot_2023-10-19_at_13.09.33.jpg?id=fcda2b1f-1975-42d9-a1b3-519901cc1a26&table=block&spaceId=13a56783-7604-415c-8d4c-d849d6bc8db1&expirationTimestamp=1697781600000&signature=YOFyTJRR1L2hKBi8Q5IepgIk3qrmeQ-FLsZvEQFiJeo&downloadName=Screenshot+2023-10-19+at+13.09.33.JPG.jpg" width=90%></img> 
+
+
+- 문서관리
+https://bzzzzi.notion.site/API-1-06af6ee0f33f478180147a2a766ce815?pvs=4
+<img src= "https://file.notion.so/f/f/13a56783-7604-415c-8d4c-d849d6bc8db1/c3da3693-702a-4bc8-b078-62b447159e17/Screenshot_2023-10-13_at_13.09.53.jpg?id=f6170d24-e3ee-4448-be48-6325915817d7&table=block&spaceId=13a56783-7604-415c-8d4c-d849d6bc8db1&expirationTimestamp=1697774400000&signature=cebkqU-8A-kpO4kRBR-AvEuuoC-10z7dpjCVi2plv5k&downloadName=Screenshot+2023-10-13+at+13.09.53.JPG.jpg"
+  width=90%>
+</img>
 
