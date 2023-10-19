@@ -22,6 +22,8 @@ RESTful API 디자인 및 구현에 대한 이해와 경험을 하게 되었고 
 
 ### 기능소개
 
+<img src= "https://file.notion.so/f/f/13a56783-7604-415c-8d4c-d849d6bc8db1/477ad6d0-f9b3-4ab1-8b06-e46f08bbbab2/Screenshot_2023-10-19_at_14.24.41.jpg?id=2779707b-2c5c-43ed-a0c1-727f1c67c310&table=block&spaceId=13a56783-7604-415c-8d4c-d849d6bc8db1&expirationTimestamp=1697781600000&signature=IP5gIxyJw6jOIp_nznbvztAdKfmaYhlWA9QkV9V3-s0&downloadName=Screenshot+2023-10-19+at+14.24.41.JPG.jpg" width=80%> </img>
+
 - ERD
 
   <img src = "https://file.notion.so/f/f/13a56783-7604-415c-8d4c-d849d6bc8db1/a3004862-526f-4e32-9e2f-b37c2af1dbf7/Screenshot_2023-10-19_at_13.09.33.jpg?id=fcda2b1f-1975-42d9-a1b3-519901cc1a26&table=block&spaceId=13a56783-7604-415c-8d4c-d849d6bc8db1&expirationTimestamp=1697781600000&signature=YOFyTJRR1L2hKBi8Q5IepgIk3qrmeQ-FLsZvEQFiJeo&downloadName=Screenshot+2023-10-19+at+13.09.33.JPG.jpg" width=70%></img> 
