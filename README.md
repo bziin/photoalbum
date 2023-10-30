@@ -26,16 +26,15 @@ RESTful API 디자인 및 구현에 대한 이해와 경험을 하게 되었고 
 
 - ERD
 
-  <img src = "https://file.notion.so/f/f/13a56783-7604-415c-8d4c-d849d6bc8db1/a3004862-526f-4e32-9e2f-b37c2af1dbf7/Screenshot_2023-10-19_at_13.09.33.jpg?id=fcda2b1f-1975-42d9-a1b3-519901cc1a26&table=block&spaceId=13a56783-7604-415c-8d4c-d849d6bc8db1&expirationTimestamp=1697781600000&signature=YOFyTJRR1L2hKBi8Q5IepgIk3qrmeQ-FLsZvEQFiJeo&downloadName=Screenshot+2023-10-19+at+13.09.33.JPG.jpg" width=70%></img> 
+  <img src = "https://user-images.githubusercontent.com/107683186/278923886-d695ab3b-f06c-4ee5-bca5-8c344af996be.JPG" width=70%></img> 
 
 
 - 문서관리
-https://bzzzzi.notion.site/API-1-06af6ee0f33f478180147a2a766ce815?pvs=4
-<img src= "https://file.notion.so/f/f/13a56783-7604-415c-8d4c-d849d6bc8db1/c3da3693-702a-4bc8-b078-62b447159e17/Screenshot_2023-10-13_at_13.09.53.jpg?id=f6170d24-e3ee-4448-be48-6325915817d7&table=block&spaceId=13a56783-7604-415c-8d4c-d849d6bc8db1&expirationTimestamp=1697774400000&signature=cebkqU-8A-kpO4kRBR-AvEuuoC-10z7dpjCVi2plv5k&downloadName=Screenshot+2023-10-13+at+13.09.53.JPG.jpg"
+<img src= "https://user-images.githubusercontent.com/107683186/278923903-b2d05eed-20f1-4a31-b8a8-7548e0a3f427.JPG"
   width=90%>
 </img>
 
 - API 테스팅
 
-  <img src = "https://file.notion.so/f/f/13a56783-7604-415c-8d4c-d849d6bc8db1/064a6dc4-d67c-45f4-8579-3b09343d6c86/Screenshot_2023-10-13_at_13.17.47.jpg?id=e7072b00-e334-4176-85eb-4d5836cb1170&table=block&spaceId=13a56783-7604-415c-8d4c-d849d6bc8db1&expirationTimestamp=1697781600000&signature=AdKhveH_Dw9qWliXpDN_w3OzdfJpoIkNsxu53gY-wik&downloadName=Screenshot+2023-10-13+at+13.17.47.JPG.jpg" width= 90%> </img>
-  <img src = "https://file.notion.so/f/f/13a56783-7604-415c-8d4c-d849d6bc8db1/d8fe7166-e803-498d-9957-1de08afacb13/Screenshot_2023-10-13_at_13.18.19.jpg?id=01087e32-004a-461b-bed4-97e61471c057&table=block&spaceId=13a56783-7604-415c-8d4c-d849d6bc8db1&expirationTimestamp=1697781600000&signature=X9QLILIkeewfbHS-csaoT7Fh7kKjjqBoTETBsEx4obk&downloadName=Screenshot+2023-10-13+at+13.18.19.JPG.jpg" width=90%></img>
+  <img src = "https://user-images.githubusercontent.com/107683186/278924284-442743ef-a5de-4edf-a108-4365fe35ec4e.JPG" width= 90%> </img>
+  <img src = "https://user-images.githubusercontent.com/107683186/278924288-0dfef781-149c-4e07-8eea-123acb752a60.JPG" width=90%></img>
